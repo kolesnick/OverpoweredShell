@@ -1,6 +1,6 @@
 # OverpoweredShell
 
-Did you ever wanted to
+Did you ever want to
 ```google how to boil an egg```
 ?
 
